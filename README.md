@@ -3,8 +3,8 @@ Sum of Pairs
 
 Given a list of integers and a single sum value, return the first two values (parse from the left please) in order of appearance that add up to form the sum.
 
-sum_pairs([11, 3, 7, 5],         10)
-             ^--^      3 + 7 = 10
+sum_pairs([11, 3, 7, 5], 10)
+3 + 7 = 10
 == [3, 7]
 
 sum_pairs([4, 3, 2, 3, 4],         6)
